@@ -4,7 +4,7 @@
 Introduction
 ============
 
-### INTRODUCTION ###
+This packages includes various browser vendor fixes for iframe-specific issues.
 
 Compatibility
 -------------
