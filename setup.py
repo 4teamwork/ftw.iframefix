@@ -47,7 +47,7 @@ setup(
         'Plone',
         'setuptools',
         'ftw.upgrade',
-        'ftw.theming',
+        'ftw.theming >= 1.10.2',
     ],
 
     tests_require=tests_require,

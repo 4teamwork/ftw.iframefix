@@ -5,6 +5,8 @@ Changelog
 2.0.0 (unreleased)
 ------------------
 
+- Require ftw.theming 1.10.2. [Kevin Bieri]
+
 - Introduce general CSS-selectors for fixes [Kevin Bieri]
 
 
