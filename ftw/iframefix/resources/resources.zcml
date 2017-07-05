@@ -5,7 +5,7 @@
 
     <include package="ftw.theming" />
 
-    <theme:resources profile="ftw.iframefix:default" slot="addon">
+    <theme:resources profile="ftw.iframefix:default" slot="mixins">
         <theme:scss file="scss/iefixes.scss" />
         <theme:scss file="scss/webkitfixes.scss" />
     </theme:resources>
